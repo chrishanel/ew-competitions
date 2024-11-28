@@ -1,13 +1,7 @@
 # ew-competitions
 
-TO DO: 
+## Overview
 
- - Collect all stats for the Minor League Free Agent Draft
-   - Each players' daily roster status (40-man, 26-man)
-   - Each players' PA/BF
-  
- - Collect all stats for the Preseason Predictions Game
-   - Too many to list
-  
- - Website frontend
- - So many features
+The Effectively Wild Competitions website is a community-built and maintained development project, with its primary purpose being to catalog the history of drafts, games, and other competitions played on the Effectively Wild podcast.
+
+Beyond this, the site aims to offer automated tracking for competitions currently in progress, as well as host forms for listener participation.
